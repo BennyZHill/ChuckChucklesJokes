@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ChuckChucklesJokes/static/css/main.7963692a.chunk.css",
+    "main.js": "/ChuckChucklesJokes/static/js/main.bf165d4e.chunk.js",
+    "main.js.map": "/ChuckChucklesJokes/static/js/main.bf165d4e.chunk.js.map",
+    "runtime-main.js": "/ChuckChucklesJokes/static/js/runtime-main.d21fc21f.js",
+    "runtime-main.js.map": "/ChuckChucklesJokes/static/js/runtime-main.d21fc21f.js.map",
+    "static/js/2.45f375b1.chunk.js": "/ChuckChucklesJokes/static/js/2.45f375b1.chunk.js",
+    "static/js/2.45f375b1.chunk.js.map": "/ChuckChucklesJokes/static/js/2.45f375b1.chunk.js.map",
+    "index.html": "/ChuckChucklesJokes/index.html",
+    "static/css/main.7963692a.chunk.css.map": "/ChuckChucklesJokes/static/css/main.7963692a.chunk.css.map",
+    "static/js/2.45f375b1.chunk.js.LICENSE.txt": "/ChuckChucklesJokes/static/js/2.45f375b1.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/ChuckChucklesJokes/static/media/desert.9533ffbe.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d21fc21f.js",
+    "static/js/2.45f375b1.chunk.js",
+    "static/css/main.7963692a.chunk.css",
+    "static/js/main.bf165d4e.chunk.js"
+  ]
+}
